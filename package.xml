@@ -7,8 +7,7 @@
   <author>Nguyen Ha Trung (modifier)</author>
   <maintainer email="nguyenhatrung411@gmail.com">Nguyen Ha Trung</maintainer>
   <license>MIT</license>
-  <url type="website">https://github.com/LORD-MicroStrain/ntrip_client</url>
-
+  
   <depend>rclpy</depend>
   <depend>std_msgs</depend>
   <depend>rtcm_msgs</depend>
